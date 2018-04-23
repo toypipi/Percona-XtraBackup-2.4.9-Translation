@@ -1,7 +1,8 @@
 {
   "plugins": [
     "disqus",
-    "hints"
+    "hints",
+    "donate"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -12,6 +13,14 @@
       "tip": "fa fa-mortar-board",
       "danger": "fa fa-exclamation-cicle",
       "working": "fa fa-wrench"
+    },
+    "donate": {
+      "wechat": "http://oio4l6s3j.bkt.clouddn.com/image/20180423/wechatpay%20.JPG",
+      "alipay": "http://oio4l6s3j.bkt.clouddn.com/image/20180423/alipay.JPG",
+      "title": "",
+      "button": "赏",
+      "alipayText": "支付宝",
+      "wechatText": "微信"
     }
   }
 }
